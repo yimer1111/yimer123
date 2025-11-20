@@ -1,0 +1,8 @@
+{
+  "name": "PharmaControl Pro",
+  "description": "Advanced financial and regulatory management system for specialized pharmacies (Controlled Medications).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
